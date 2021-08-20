@@ -140,4 +140,4 @@ static int preallocate_io(int fd, off_t len, int opt_sync)
 
 
 - [Re: [RFC] fallocate utility](https://lists.gnu.org/archive/html/bug-coreutils/2009-07/msg00255.html)
-  - it is already suggested this kind of things in coreutils. however ansower is obvious "Do one thing and do it well".
+  - it is already suggested this kind of things in coreutils. however answer is obvious "Do one thing and do it well".
